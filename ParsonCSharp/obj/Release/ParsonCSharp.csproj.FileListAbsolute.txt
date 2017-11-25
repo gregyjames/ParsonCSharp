@@ -1,0 +1,5 @@
+C:\Users\Greg\Desktop\parson-master\ParsonCSharp\ParsonCSharp\bin\Release\ParsonCSharp.exe.config
+C:\Users\Greg\Desktop\parson-master\ParsonCSharp\ParsonCSharp\bin\Release\ParsonCSharp.exe
+C:\Users\Greg\Desktop\parson-master\ParsonCSharp\ParsonCSharp\bin\Release\ParsonCSharp.pdb
+C:\Users\Greg\Desktop\parson-master\ParsonCSharp\ParsonCSharp\obj\Release\ParsonCSharp.exe
+C:\Users\Greg\Desktop\parson-master\ParsonCSharp\ParsonCSharp\obj\Release\ParsonCSharp.pdb

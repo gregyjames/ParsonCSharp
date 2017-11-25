@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (libparson.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Performing Custom Build Tools
+  parson.c
+  parson_wrap.c
+     Creating library C:\Users\Greg\Desktop\parson-master\ParsonCSharp\ParsonCSharp\bin\Release\parson.lib and object C:\Users\Greg\Desktop\parson-master\ParsonCSharp\ParsonCSharp\bin\Release\parson.exp
+  Generating code
+  All 222 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  libparson.vcxproj -> C:\Users\Greg\Desktop\parson-master\ParsonCSharp\ParsonCSharp\bin\Release\parson.dll
