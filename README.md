@@ -1,5 +1,5 @@
 # ParsonCSharp
-A C# wrapper for Parson built using SWIG.
+A C# wrapper for Parson built using SWIG.This is mostly just a SWIG test.
 
 Based off:
 https://github.com/kgabis/parson
